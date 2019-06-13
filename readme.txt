@@ -1,1 +1,1 @@
-1223SaaSÈö
+Creating a new branch is quick & simple.
